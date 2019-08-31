@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\bin\Debug\netcoreapp2.2\coreRabbitMQService.deps.json
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\bin\Debug\netcoreapp2.2\coreRabbitMQService.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\bin\Debug\netcoreapp2.2\coreRabbitMQService.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\bin\Debug\netcoreapp2.2\coreRabbitMQService.dll
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\bin\Debug\netcoreapp2.2\coreRabbitMQService.pdb
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\obj\Debug\netcoreapp2.2\coreRabbitMQService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\obj\Debug\netcoreapp2.2\coreRabbitMQService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\obj\Debug\netcoreapp2.2\coreRabbitMQService.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\obj\Debug\netcoreapp2.2\coreRabbitMQService.dll
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\obj\Debug\netcoreapp2.2\coreRabbitMQService.pdb
+C:\Users\Lenovo\source\repos\SignalrAndRabbitMQ\coreRabbitMQService\obj\Debug\netcoreapp2.2\coreRabbitMQService.csprojAssemblyReference.cache
